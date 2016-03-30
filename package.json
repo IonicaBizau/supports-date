@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/supports-date#readme",
   "blah": {
-      "ex_img": "http://i.imgur.com/DVUS6VF.jpg"
+      "ex_img": "http://i.imgur.com/DVUS6VF.jpg",
+      "ex_url": "http://ionicabizau.github.io/supports-date/example/"
   }
 }
