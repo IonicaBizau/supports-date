@@ -2,7 +2,7 @@
 
 > Check if your browser has support for date inputs.
 
-[![supports-date](http://i.imgur.com/DVUS6VF.jpg)](http://ionicabizau.github.io/supports-date/example/)
+[![supports-date](http://i.imgur.com/xAIR8Ub.png)](http://ionicabizau.github.io/supports-date/example/)
 
 ## :cloud: Installation
 
