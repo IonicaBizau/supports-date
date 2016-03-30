@@ -1,0 +1,31 @@
+{
+  "name": "supports-date",
+  "version": "1.0.0",
+  "description": "Check if your browser has support for date inputs.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/supports-date.git"
+  },
+  "keywords": [
+    "supports",
+    "date",
+    "check",
+    "browser"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/supports-date/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/supports-date#readme",
+  "blah": {
+      "ex_img": "http://i.imgur.com/DVUS6VF.jpg"
+  }
+}
