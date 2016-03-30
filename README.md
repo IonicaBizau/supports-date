@@ -8,6 +8,12 @@
 
 Check out the [`dist`](/dist) directory to download the needed files and include them on your page.
 
+If you're using this module in a CommonJS environment, you can install it from `npm` and `require` it:
+
+```sh
+$ npm i "--save supports-date
+```
+
 ## :clipboard: Example
 
 ```js
