@@ -1,6 +1,6 @@
 {
   "name": "supports-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if your browser has support for date inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/supports-date#readme",
   "blah": {
-      "ex_img": "http://i.imgur.com/DVUS6VF.jpg",
-      "ex_url": "http://ionicabizau.github.io/supports-date/example/"
+    "ex_img": "http://i.imgur.com/DVUS6VF.jpg",
+    "ex_url": "http://ionicabizau.github.io/supports-date/example/"
   }
 }
