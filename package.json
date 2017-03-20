@@ -1,6 +1,6 @@
 {
   "name": "supports-date",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check if your browser has support for date inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,7 @@
     "check",
     "browser"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/supports-date/issues"
@@ -33,12 +33,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
