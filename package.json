@@ -1,6 +1,6 @@
 {
   "name": "supports-date",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Check if your browser has support for date inputs.",
   "main": "lib/index.js",
   "directories": {
