@@ -1,6 +1,6 @@
 {
   "name": "supports-date",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Check if your browser has support for date inputs.",
   "main": "lib/index.js",
   "directories": {
@@ -39,6 +39,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
